@@ -1,3 +1,3 @@
-# Create Your Next Project
+# Code Starter - OpenWhisk
 
-Choose a starter project that best matches your needs. Add Push, Analytics, and Authentication capabilities, and configure your working code!
+Choose the OpenWhisk Code Starter to create your project. You can configure your project to run your OpenWhisk actions.
