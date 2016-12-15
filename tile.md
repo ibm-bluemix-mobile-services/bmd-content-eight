@@ -1,3 +1,3 @@
-# Code Starter - OpenWhisk
+# Code Starter - Weather
 
-Choose the OpenWhisk Code Starter to create your project. You can configure your project to run your OpenWhisk actions.
+Choose the Weather Code Starter to create your project. You can show the current temperature or the weekly forecast for any point on a map.
