@@ -1,3 +1,3 @@
-# Code Starter - Weather
+# Video Tutorial
 
-Choose the Weather Code Starter to create your project. You can show the current temperature or the weekly forecast for any point on a map.
+Watch a video tutorial about how to generate a Mobile SDK for your project.
