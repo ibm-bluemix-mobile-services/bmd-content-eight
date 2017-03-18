@@ -1,3 +1,3 @@
-# Video Tutorial
+# Watson Conversation
 
-Watch a video tutorial about how to generate a Mobile SDK for your project.
+Build chatbots and conversing apps that understand natual language. Visual dialog builder creates natural conversations without writing code.
